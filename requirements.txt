@@ -1,5 +1,4 @@
-#Generetated by using pipreqs .
-
-snowflake_connector_python==4.1.1
+snowflake_connector_python==3.18.0
+snowflake_ml_python==1.20.0
 snowflake_snowpark_python==1.44.0
 streamlit==1.52.2
